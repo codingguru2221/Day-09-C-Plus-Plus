@@ -1,5 +1,4 @@
 C++ functions learning journey Day 9
-```markdown
 # C++ Functions Learning Journey
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
