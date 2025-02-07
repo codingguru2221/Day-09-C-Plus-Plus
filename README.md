@@ -84,7 +84,7 @@ int main() {
 
 ## 📚 Coding Journey
 **Day 9** of 100-day coding challenge  
-Previous: [Day 8 - Control Structures](link-to-day8)  
+Previous: [Day 8 - Control Structures](https://github.com/codingguru2221/Day-08-C-Plus-Plus.git)  
 Next: [Day 10 - Object-Oriented Basics](link-to-day10)
 
 ## 🤝 Contributing
